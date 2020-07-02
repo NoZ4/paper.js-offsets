@@ -23,5 +23,5 @@ Cheers
 
 ![Preview](/example1-10.svg){ width=50% }
 
-
+<img src="/example1-10.svg" width="200" height="200" />
 
