@@ -1,7 +1,7 @@
 
-Code for allowing offsetting in paper.js - currently using paper-jsdom
+#Code for allowing offsetting in paper.js - currently using paper-jsdom
 
-better accuracy than inkscape for offsetting
+##better accuracy than inkscape for offsetting
 
 takes into account paths overlapping, when paths intersect when offset etc
 
