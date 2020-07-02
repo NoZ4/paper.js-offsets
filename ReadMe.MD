@@ -21,7 +21,7 @@ of techniques which allow this.
 
 Cheers
 
-![Preview](/example1-10.svg)
+![Preview](/example1-10.svg){ width=50% }
 
 
 
