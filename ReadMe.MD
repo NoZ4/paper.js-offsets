@@ -1,5 +1,5 @@
 
-Code for allowing offsetting in paper.js - currently using paper-jsdom
+#Code for allowing offsetting in paper.js - currently using paper-jsdom
 
 better accuracy than inkscape for offsetting
 
