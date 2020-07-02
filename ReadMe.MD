@@ -21,6 +21,8 @@ of techniques which allow this.
 
 Cheers
 
+-20 to + 20  | -100 to + 100
+------------ | -------------
 <img src="/example1-10.svg" width="200" height="200" />|<img src="/example1-100.svg" width="200" height="200" />
 <img src="/example2-10.svg" width="200" height="200" />|<img src="/example2-100.svg" width="200" height="200" />
 <img src="/example3-10.svg" width="200" height="200" />|<img src="/example3-100.svg" width="200" height="200" />
