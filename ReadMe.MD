@@ -21,6 +21,8 @@ of techniques which allow this.
 
 Cheers
 
+Examples - *original shape in black*
+-------------------------------------------
 example type | -20 to + 20  | -100 to + 100
 ------------ | -------------|--------------
 complicated shape | <img src="/example1-10.svg" width="200" height="200" />|<img src="/example1-100.svg" width="200" height="200" />
