@@ -21,7 +21,6 @@ of techniques which allow this.
 
 Cheers
 
-![Preview](/example1-10.svg){ width=50% }
-
 <img src="/example1-10.svg" width="200" height="200" />
-
+<img src="/example2-10.svg" width="200" height="200" />
+<img src="/example3-10.svg" width="200" height="200" />
