@@ -26,3 +26,5 @@ example type | -20 to + 20  | -100 to + 100
 complicated shape | <img src="/example1-10.svg" width="200" height="200" />|<img src="/example1-100.svg" width="200" height="200" />
 shape that will self intersect | <img src="/example2-10.svg" width="200" height="200" />|<img src="/example2-100.svg" width="200" height="200" />
 shape that will lose lines | <img src="/example3-10.svg" width="200" height="200" />|<img src="/example3-100.svg" width="200" height="200" />
+shape with holes that will combine| <img src="/example4-10.svg" width="200" height="200" />|<img src="/example4-100.svg" width="200" height="200" />
+shape with multiple paths that will combine | <img src="/example5-10.svg" width="200" height="200" />|<img src="/example5-100.svg" width="200" height="200" />
