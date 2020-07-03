@@ -378,7 +378,7 @@ function GetArcPath(arcpointdatalist, startpos, endpos) {
             }
         }
         points.push(endpos);
-        for (var i = 0; i < points.length - 1; i++) {
+        for (var i = 0; i < arcpointdatalist.length - 1; i++) {
             paths.push(GetArc(arcpointdatalist[i].Middle, arcpointdatalist[i].Offset, points[i], points[i + 1]));
         }
     }
