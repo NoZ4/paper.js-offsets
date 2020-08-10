@@ -38,6 +38,7 @@ shape with holes that will combine| <img src="/example4-10.svg" width="300" heig
 shape with multiple paths that will combine | <img src="/example5-10.svg" width="300" height="300" />|<img src="/example5-100.svg" width="300" height="300" />
 --------------------------------------------
 
+Stroke examples
 --------------------------------------------
 ---------------|----------------------------
 normal stroke  |<img src="/Stroke.SVG" width="300" height="300" />
