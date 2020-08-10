@@ -40,7 +40,6 @@ shape with multiple paths that will combine | <img src="/example5-10.svg" width=
 
 Stroke examples
 --------------------------------------------
----------------|----------------------------
 normal stroke  |<img src="/Stroke.SVG" width="300" height="300" />
 variable stroke|<img src="/VariableWidthstroke.SVG" width="300" height="300" />
 inverse stroke |<img src="/InverseStroke.SVG" width="300" height="300" />
