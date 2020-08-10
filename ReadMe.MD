@@ -36,6 +36,8 @@ shape that will self intersect | <img src="/example2-10.svg" width="300" height=
 shape that will lose lines | <img src="/example3-10.svg" width="300" height="300" />|<img src="/example3-100.svg" width="300" height="300" />
 shape with holes that will combine| <img src="/example4-10.svg" width="300" height="300" />|<img src="/example4-100.svg" width="300" height="300" />
 shape with multiple paths that will combine | <img src="/example5-10.svg" width="300" height="300" />|<img src="/example5-100.svg" width="300" height="300" />
+
+
 ---------------|----------------------------
 normal stroke  |<img src="/Stroke.SVG" width="300" height="300" />
 variable stroke|<img src="/VariableWidthstroke.SVG" width="300" height="300" />
