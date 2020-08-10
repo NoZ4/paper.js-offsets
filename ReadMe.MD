@@ -5,7 +5,13 @@ better accuracy than inkscape for offsetting
 
 takes into account paths overlapping, when paths intersect when offset etc
 
+Now with path stroking and variable width offsetting!
+
 please report any bugs
+Known issues :
+  1. stroke path doesnt return valid path - paper boolean operations sometimes reverses windings, which means unite methods dont work properly
+  2. paths with overlapping identical curves
+  
 
 all code is commented, all questions and ideas welcomed
 
@@ -30,3 +36,11 @@ shape that will self intersect | <img src="/example2-10.svg" width="300" height=
 shape that will lose lines | <img src="/example3-10.svg" width="300" height="300" />|<img src="/example3-100.svg" width="300" height="300" />
 shape with holes that will combine| <img src="/example4-10.svg" width="300" height="300" />|<img src="/example4-100.svg" width="300" height="300" />
 shape with multiple paths that will combine | <img src="/example5-10.svg" width="300" height="300" />|<img src="/example5-100.svg" width="300" height="300" />
+--------------------------------------------
+normal stroke
+<img src="/Stroke.svg" width="300" height="300" />
+variable stroke
+<img src="/VariableWidthstroke.svg" width="300" height="300" />
+inverse stroke
+<img src="/InverseStroke.svg" width="300" height="300" />
+
