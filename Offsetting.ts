@@ -38,7 +38,6 @@ export function OffsetPath(path, offset1, offset2, type, straightnesstolerance =
             unite = true;
             makeintostroke = true;
         }
-            unite = false;
     }
 
   
